@@ -1,0 +1,5 @@
+# bundle file
+build/bundle.js
+
+# dependencies
+node_modules
